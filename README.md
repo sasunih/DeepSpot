@@ -184,7 +184,7 @@ snapshot_download("nonchev/TCGA_digital_spatial_transcriptomics",
 8. C. Delrue, and M. Speeckaert "Transcriptomic Signatures in IgA Nephropathy: From Renal Tissue to Precision Risk Stratification." *International Journal of Molecular Sciences* (2025). [DOI](https://doi.org/10.3390/ijms262010055)
 9. Jonathan Xu, Michelle Jiang, Shunsuke Koga, Nancy R. Zhang, and Zhi Huang "SpatialFinder: a human-in-the-loop vision-language framework for prioritizing high-value regions in spatial transcriptomics." *bioRxiv* (2025). [DOI](https://doi.org/10.3389/fbinf.2026.1746714)
 10. Moritz Schaefer, Kalin Nonchev, Animesh Awasthi, Jake Burton, V. Koelzer, Gunnar Rätsch, and Christoph Bock "Molecularly informed analysis of histopathology images using natural language." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.07.14.664402)
-11. Sushant Patkar, Timothy R. Rosean, Palak Patel, Stephanie A. Harmon, Peter L. Choyke, Tamara Jamaspishvili, and B. Turkbey "Towards interpretable molecular and spatial analysis of the tumor microenvironment from digital histopathology images with HistoTME-v2." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.06.11.658673)
+11. Sushant Patkar, T. Rosean, Palak Patel, Stephanie A. Harmon, Peter L. Choyke, Tamara Jamaspishvili, and B. Turkbey "Towards interpretable molecular and spatial analysis of the tumor microenvironment from digital histopathology images with HistoTME-v2." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.06.11.658673)
 <!-- CITATIONS:END -->
 
 *This list is automatically updated weekly via [GitHub Actions](.github/workflows/update-citations.yml) using the [Semantic Scholar](https://www.semanticscholar.org/) and [OpenCitations](https://opencitations.net/) APIs.*
