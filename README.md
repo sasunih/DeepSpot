@@ -12,6 +12,7 @@ The preprint is available [here](https://www.medrxiv.org/content/10.1101/2025.02
 
 ## News
 
+  - [05.2026] The AESTETIK model we build on, presented in [Representation learning for multi-modal spatially resolved transcriptomics data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433), has been published in Bioinformatics (Oxford)
   - [03.2026] Cross-sample [AESTETIK, the spatial transcriptomics integration model](https://github.com/ratschlab/aestetik) powering DeepSpot, will be presented at the [ICLR 2026 Learning Meaningful Representations of Life](https://www.biorxiv.org/content/10.64898/2026.03.02.709002v1).
   - [01.2026] Invited talk at 10x Genomics Single Cell & Spatial Discovery Symposium, 2026, Bern, Switzerland
   - [12.2025] Contributed talk at [NeurIPS 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences](https://nips2025fm4ls.github.io/), 2025, San Diego, USA
@@ -184,7 +185,7 @@ snapshot_download("nonchev/TCGA_digital_spatial_transcriptomics",
 8. C. Delrue, and M. Speeckaert "Transcriptomic Signatures in IgA Nephropathy: From Renal Tissue to Precision Risk Stratification." *International Journal of Molecular Sciences* (2025). [DOI](https://doi.org/10.3390/ijms262010055)
 9. Jonathan Xu, Michelle Jiang, Shunsuke Koga, Nancy R. Zhang, and Zhi Huang "SpatialFinder: a human-in-the-loop vision-language framework for prioritizing high-value regions in spatial transcriptomics." *bioRxiv* (2025). [DOI](https://doi.org/10.3389/fbinf.2026.1746714)
 10. Moritz Schaefer, Kalin Nonchev, Animesh Awasthi, Jake Burton, V. Koelzer, Gunnar Rätsch, and Christoph Bock "Molecularly informed analysis of histopathology images using natural language." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.07.14.664402)
-11. Sushant Patkar, Timothy R. Rosean, Palak Patel, Stephanie A. Harmon, Peter L. Choyke, Tamara Jamaspishvili, and B. Turkbey "Towards interpretable molecular and spatial analysis of the tumor microenvironment from digital histopathology images with HistoTME-v2." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.06.11.658673)
+11. Sushant Patkar, T. Rosean, Palak Patel, Stephanie A. Harmon, Peter L. Choyke, Tamara Jamaspishvili, and B. Turkbey "Towards interpretable molecular and spatial analysis of the tumor microenvironment from digital histopathology images with HistoTME-v2." *bioRxiv* (2025). [DOI](https://doi.org/10.1101/2025.06.11.658673)
 <!-- CITATIONS:END -->
 
 *This list is automatically updated weekly via [GitHub Actions](.github/workflows/update-citations.yml) using the [Semantic Scholar](https://www.semanticscholar.org/) and [OpenCitations](https://opencitations.net/) APIs.*
