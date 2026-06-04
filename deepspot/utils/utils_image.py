@@ -2,7 +2,7 @@ from torchvision.models import inception_v3, Inception_V3_Weights
 from torchvision.models import resnet50, ResNet50_Weights
 from torchvision.models import densenet121, DenseNet121_Weights
 from huggingface_hub import login, hf_hub_download
-from transformers import AutoImageProcessor, ViTModel
+from transformers import AutoImageProcessor, AutoModel, ViTModel
 from collections import OrderedDict
 from torchvision import transforms
 import torch.nn.functional as F
