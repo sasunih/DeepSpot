@@ -14,13 +14,13 @@ dependencies:
   - matplotlib
   - pyvips
   - scikit-learn
-  - igraph
+  - python-igraph
 
   - pip:
       - torch
       - torchvision
       - torchaudio
-      - --extra-index-url https://download.pytorch.org/whl/cu126
+      - --extra-index-url https://download.pytorch.org/whl/rocm7.2
       - lightning
       - plotnine
       - ipykernel
