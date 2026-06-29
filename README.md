@@ -175,7 +175,7 @@ snapshot_download("nonchev/TCGA_digital_spatial_transcriptomics",
 ## Papers Citing DeepSpot
 
 <!-- CITATIONS:START -->
-1. Pantelis R. Vlachas, Kalin Nonchev, V. Koelzer, and Gunnar Rätsch "Transcriptomics-Conditioned Virtual Tissue Synthesis via Diffusion Transformers." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.05.26.727902)
+1. Pantelis R. Vlachas, K. Nonchev, V. Koelzer, and Gunnar Rätsch "Transcriptomics-Conditioned Virtual Tissue Synthesis via Diffusion Transformers." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.05.26.727902)
 2. Manuel Tran, R. Gindra, Philipp Putze, Senbai Kang, G. Palla, Tina Kos, Chiara Falcomatà, Chen Wang, R. Guo, M. Boxberg, L. Berclaz, L. Lindner, L. Bergmayr, Thomas Knösel, Philip Jurmeister, Frederick Klauschen, K. Homicsko, Raphael Gottardo, Markus Eckstein, C. Matek, Andreas Mock, F. Theis, Dieter Saur, and Tingying Peng "Pan-cancer virtual spatial transcriptomics from routine histology with Phoenix." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.04.25.720812)
 3. Benjamin S. Strope, D. Varghese, William Z. Bowie, Stacy Wang, and Qian Zhu "CancerSTFormer enables multi-scale analysis of spot-resolution spatial transcriptomes and dissects gene and immune regulatory responses to targeted therapies." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2025.12.22.696102)
 4. Ju Dai, Kalin Nonchev, V. Koelzer, and Gunnar Rätsch "Towards Cross-Sample Alignment for Multi-Modal Representation Learning in Spatial Transcriptomics." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.03.02.709002)
