@@ -12,6 +12,7 @@ The preprint is available [here](https://www.medrxiv.org/content/10.1101/2025.02
 
 ## News
 
+  - [06.2026] Meet the next generation of DeepSpot: [DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1). [Code.](https://github.com/ratschlab/DeepSpotM)
   - [05.2026] The AESTETIK model we build on, presented in [Representation learning for multi-modal spatially resolved transcriptomics data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433), has been published in Bioinformatics (Oxford)
   - [03.2026] Cross-sample [AESTETIK, the spatial transcriptomics integration model](https://github.com/ratschlab/aestetik) powering DeepSpot, will be presented at the [ICLR 2026 Learning Meaningful Representations of Life](https://www.biorxiv.org/content/10.64898/2026.03.02.709002v1).
   - [01.2026] Invited talk at 10x Genomics Single Cell & Spatial Discovery Symposium, 2026, Bern, Switzerland
